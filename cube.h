@@ -6,3 +6,5 @@
  int Cube_assign(Cube*c, float x);  // Assign a side to a cube
  float Cube_area(Cube* c);  // Calculates the area of a cube
  float Cube_volume(Cube* c); // Calculates the volume a cube
+
+gosto de pera
