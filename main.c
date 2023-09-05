@@ -11,7 +11,7 @@ int main() {
   area = Cube_area(c1);
   volume = Cube_volume(c1);
 
-  printf("The cube has %.2f cm² of area and %.2f cm³ of volumes.\n", area,
+  printf("The cube has %.2f cm² of area and %.2f cm³ of volume.\n", area,
          volume);
 
   Cube_free(c1);
